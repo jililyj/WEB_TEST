@@ -1,0 +1,40 @@
+div{
+	padding: 20px;
+	margin: 10px;
+
+}
+.main_body{
+	width: 1000px;
+    height: 600px;	
+    background: #eee;
+	margin: 50px auto;
+	border: solid 1px #999;
+	border-bottom-right-radius: 25px ;
+	border-bottom-left-radius: 25px ;
+}
+.d1{
+	height: 200px;
+	width: 400px;
+	border: solid 1px black;
+	
+	float: left;
+}
+.d2{
+	height: 500px;
+	width: 200px;
+	border: solid 1px black;
+	overflow: scroll;
+	float: left;
+}
+.d3{
+	height: 500px;
+	width: 200px;
+	border: solid 1px black;
+	float: left;
+	text-align: center;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
